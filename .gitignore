@@ -13,6 +13,7 @@
 *.wpu
 .vs
 x64
+venv
 
 # Temp
 build
